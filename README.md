@@ -121,21 +121,15 @@ If taken:
 
 ### 📊 **Waveform Example 1**
 
-```
 ![Forwarding Waveform](./waveform/waveform1.png)
-```
 
 ### 📊 **Waveform Example 2**
 
-```
 ![Load-Use Hazard Waveform](./waveform/waveform2.png)
-```
 
 ### 📊 **Waveform Example 3**
 
-```
 ![Branch Flush Waveform](./waveform/waveform3.png)
-```
 
 ---
 
